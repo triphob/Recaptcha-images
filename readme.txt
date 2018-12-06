@@ -29,6 +29,7 @@ into your web browser http://netbeans.org/kb/60/java/quickstart-gui.html.
 Antenna Preferences
 -------------------
 ![1]https://raw.githubusercontent.com/triphob/Recaptcha-images/master/Capture1.PNG
+https://github.com/triphob/Recaptcha-images/blob/master/Capture1.PNG
 
 This example illustrates a type of table-based form commonly used to display 
 related information in visually coherent groups. The GUI Builder's advanced 
